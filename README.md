@@ -55,7 +55,7 @@ I’m **Aly Sibak**, a software developer passionate about building impactful ap
 - Created a responsive design to enhance the user experience on both desktop and mobile devices.  
 - Integrated multimedia elements like instructional videos and infographics to provide a comprehensive learning experience.
 
-### ** Multi=page Websites**
+### **Multi-page Websites**
 - **Technology:** React, Next.js (2023 - now)  
 - Designed and developed a responsive website to improve customer experience.  
 - Integrated backend systems with APIs to manage real-time inventory, order processing, and customer interactions.  
