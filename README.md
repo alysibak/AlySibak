@@ -13,11 +13,10 @@ My name is **Aly Sibak**, and I'm passionate about software development.
 
 ---
 
-# Socials 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Personal Website](https://img.shields.io/badge/Website-4CAF50?logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+# Connect with Me 🌐
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aly-sibak-721b85252/)
 
 <!--
 **alysibak/AlySibak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
