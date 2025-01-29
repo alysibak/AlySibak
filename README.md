@@ -1,22 +1,78 @@
-# Hi there, new friend! 👋
+# Hi there! 👋
 
-My name is **Aly Sibak**, and I'm passionate about software development.
+I’m **Aly Sibak**, a software developer passionate about building impactful applications and continuously learning new technologies.
 
-- 🌟 My hobbies include soccer, swimming, and traveling.  
-- 🤝 Want to work on projects together? Feel free to reach out!
-
-📧 **Contact me:** [aly.sibak@gmail.com](mailto:aly.sibak@gmail.com)
-
-# Skills 🛠️
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,python,mysql,git,docker,linux)](https://skillicons.dev)
+- ⚽ I enjoy **soccer**, **swimming**, and exploring new places.  
+- 🌱 Currently diving deeper into **machine learning**, **backend development**, and **cloud technologies**.  
+- 🧠 I have a knack for problem-solving and enjoy taking on challenging projects.
 
 ---
 
+# 💼 Professional Focus
 
-# Connect with Me 🌐
+- **Software Development**: Building efficient and scalable systems.  
+- **Collaboration**: Thriving in team environments and contributing to open-source projects.  
+- **Continuous Learning**: Staying ahead with the latest tech trends.
+
+---
+
+# 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aly-sibak-721b85252/)
+
+---
+
+# 🛠️ Skills & Technologies
+
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,python,mysql)](https://skillicons.dev)
+
+### Tools & Frameworks
+[![My Tools](https://skillicons.dev/icons?i=nodejs,react,git,docker,linux,vscode,flask,bootstrap,tailwind)](https://skillicons.dev)
+
+---
+
+# 📊 GitHub Stats
+
+![Aly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alysibak&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alysibak&layout=compact&theme=radical)
+
+---
+
+# 🌱 Current Learning Goals
+
+- **Machine Learning**: Gaining hands-on experience with neural networks and predictive models.  
+- **Cloud Computing**: Exploring AWS and Azure for deploying scalable applications.  
+- **Database Optimization**: Improving the performance of complex queries and large datasets.
+
+---
+
+# 🔭 Relevant Projects
+
+### **Interactive Gym Anatomy Website**
+- **Technology:** React (In Progress)  
+- Developed an interactive platform displaying anatomy diagrams linked to exercises and workout plans for fitness enthusiasts.  
+- Created a responsive design to enhance the user experience on both desktop and mobile devices.  
+- Integrated multimedia elements like instructional videos and infographics to provide a comprehensive learning experience.
+
+### ** Multi=page Websites**
+- **Technology:** React, Next.js (2023 - now)  
+- Designed and developed a responsive website to improve customer experience.  
+- Integrated backend systems with APIs to manage real-time inventory, order processing, and customer interactions.  
+- Implemented cross-browser compatibility and mobile responsiveness for a seamless user experience across platforms.
+
+### **Custom Car Creator**
+Technology: C (2023)
+Developed a C program that allows users to upload information about cars, including license plate, color, and type of car.
+Implemented a search functionality to enable users to quickly find cars based on specific criteria.
+Designed the program to simplify car information management and enhance user experience.
+
+---
+
+# 📬 Let’s Collaborate
+
+Feel free to reach out for project ideas, collaboration, or just to connect!  
+📧 **Email:** [aly.sibak@gmail.com](mailto:aly.sibak@gmail.com)
 
 <!--
 **alysibak/AlySibak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
