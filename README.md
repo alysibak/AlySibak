@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m **Aly Sibak**, a software developer passionate about building impactful applications and continuously learning new technologies.
+I’m **Aly Sibak**, a computer science student passionate about building impactful applications and continuously learning new technologies.
 
 - ⚽ I enjoy **soccer**, **swimming**, and exploring new places.  
 - 🌱 Currently diving deeper into **machine learning**, **backend development**, and **cloud technologies**.  
