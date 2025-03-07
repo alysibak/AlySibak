@@ -34,8 +34,9 @@ I’m **Aly Sibak**, a computer science student passionate about building impact
 
 # 📊 GitHub Stats
 
-![Aly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alysibak&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alysibak&layout=compact&theme=radical)
+![Aly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alysibak&show_icons=true&theme=radical&cache_bust=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alysibak&layout=compact&theme=radical&cache_bust=1)
+
 
 ---
 
