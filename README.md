@@ -22,7 +22,7 @@ I’m **Aly Sibak**, a computer science student passionate about building impact
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aly.sibak@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white)](https://my-portfolio-alysibaks-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white)]([https://my-portfolio-alysibaks-projects.vercel.app/](https://alysibak.vercel.app/))
 
 
 # 🛠️ Skills & Technologies
